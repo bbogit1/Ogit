@@ -1,0 +1,30 @@
+Codar Test
+
+
+1.	1.Malware.
+    	2.Denial-of-Service (DoS) Attacks.
+    	3.DDOS attacks
+    	4.Phishing.
+    	5.Spoofing.
+    	6.Identity-Based Attacks.
+    	7.crptojac
+    	8.Code Injection Attacks.
+    	9.password attack.
+    	10.Man in the middle attack
+
+2.	1. To protect personal Identification 2. To protect confidentiality information 3. To protect company 	Datas
+	cybersecurity is all about protection of data and defend internet-connected devices and services from 	malicious attackers.
+
+3.	five reason why people hack 1. political agendas 2. for fun 3. for fame 4. for personal gain 5. activist
+
+4.	CIA triad. Confidentiality of information not to reach the wrong hand
+	Integerity is trustworthiness of data over it entire life cycle
+	Availability is process of getting the hardware repair as soon as possible
+
+5.	if cia triad is broken there will be a fatal leakage of data and unauthorized access will be available for 	the attackers and some information will not be available.
+
+6.	Vulnerability is the weakness of an asset that can be exploit by an attackers
+	Threat is a potential event that brings harm to an organization or individual 
+	Risk is a damages or loss that occur when treat is carried out.
+
+7.	how to fix a crime is to identify the main course of the action and identify the root 
